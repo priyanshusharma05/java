@@ -1,0 +1,17 @@
+             **Apna clg java notes**
+
+*To convert any double into float just write a f (3.14f).
+*Typecasting:-
+float a 25.0;
+int b=a; X
+int b=(int)a;
+
+char ch='a';
+int nch=ch;(gives ascii values)
+
+* order of type conversion:
+byte->short->int->float->long->double (We can store the int value in float show on as order)
+
+*pre increment and post increment:- 
+++a                             a++
+First changes the value         after changes the value

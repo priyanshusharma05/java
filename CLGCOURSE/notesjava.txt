@@ -1,0 +1,46 @@
+*call by value:
+in any function we pass the  parameters by call by value means we pass the value not the whole variable(call by reference).
+whenever we pass parameters in any function it creates a copy of argument(value) which we give in main function. 
+
+*Function Overloading:
+multiple functions with same name but different parameters. It doesnt depends on return type.
+multilpy(int a, int b);
+multilpy(float c ,float d);{different parameters}
+multilpy(int a, int b ,int c);{multiple parameters}
+
+*call by reference :
+when we pass a array or a value in to a funcyion that reflects changes in main function.
+in simple words when we commit change in any function those changes will also apply into main funcyion.
+in array we give it by reference to any other function frommain function.
+
+*IMP function:
+TO convert string into array-
+if a string = name then 
+arr=name.toChatArray()
+TO convert array into string-
+Arrays.toString(arr)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
